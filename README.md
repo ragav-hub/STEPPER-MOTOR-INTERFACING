@@ -12,6 +12,7 @@ To write an assembly language program in 8086 to rotate the motor at different s
 | 2     | Power Supply                | +5 V DC, +12 V DC | 1      |
 | 3     | Stepper Motor Interface board | -             | 1        |
 | 4     | Stepper Motor               | -               | 1        |
+
 ---
 
 ## THEORY
