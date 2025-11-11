@@ -68,8 +68,11 @@ L1:      DEC DX
          HLT                  ; Stop
 
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
+
 ```
+
 ## OUTPUT OF THE PROGRAM:
+
 ![WhatsApp Image 2025-09-21 at 20 55 06](https://github.com/user-attachments/assets/3c44892c-6b45-4907-8e36-88ef785c1b2d)
 
 
