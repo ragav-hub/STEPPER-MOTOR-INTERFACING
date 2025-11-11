@@ -4,7 +4,6 @@
 To write an assembly language program in 8086 to rotate the motor at different speeds.
 
 ---
-
 ## APPARATUS REQUIRED
 
 | S. No | Item                        | Specification   | Quantity |
@@ -13,7 +12,6 @@ To write an assembly language program in 8086 to rotate the motor at different s
 | 2     | Power Supply                | +5 V DC, +12 V DC | 1      |
 | 3     | Stepper Motor Interface board | -             | 1        |
 | 4     | Stepper Motor               | -               | 1        |
-
 ---
 
 ## THEORY
@@ -68,14 +66,9 @@ L1:      DEC DX
          HLT                  ; Stop
 
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
-
 ```
-
 ## OUTPUT OF THE PROGRAM:
-
 ![WhatsApp Image 2025-09-21 at 20 55 06](https://github.com/user-attachments/assets/3c44892c-6b45-4907-8e36-88ef785c1b2d)
-
-
 ## RESULT
 
 Thus, the assembly language program for rotating the stepper motor in both clockwise and anticlockwise directions was written and verified.
